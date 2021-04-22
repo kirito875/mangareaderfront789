@@ -58,7 +58,8 @@ function Admindashboard(){
         rating:rating,
           
       }
-      });   
+      }); 
+      alert("book added")  
   }
 
 
